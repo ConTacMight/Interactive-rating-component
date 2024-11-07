@@ -24,9 +24,7 @@ Users should be able to:
 
 ![](./images/screenshot.png)
 
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
-
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/ConTacMight/Interactive-rating-component](https://github.com/ConTacMight/Interactive-rating-component)
+- Live Site URL: [https://contacmight.github.io/Interactive-rating-component/](https://contacmight.github.io/Interactive-rating-component/)
